@@ -1,0 +1,26 @@
+td {
+    width: 2vw;
+    height: 2vw;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.nada {
+    background-color: grey;
+}
+
+.mina {
+    background-color: red;
+    background-image: url('mina.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
